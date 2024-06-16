@@ -1,9 +1,9 @@
 # Assembly fans
 
-This repository is for those who are very interested in assebmly and want to show their devotion and close relationship with it by writing a few sentences about it.
+This repository is for those very interested in assembly and who want to show their devotion and close relationship with it by writing a few sentences about it.
 
-## colaboration:
-To participate in this action, it is enough to place the desired text in this part of the code and the asm file in the `src` directory ,put the photo of the output of the program in the `shots` directory then put it in the [readme](README.md) file.
+## collaboration:
+To participate in this action, it is enough to place the desired text in this part of the code and the asm file in the `src` directory, put the photo of the output of the program in the `shots` directory then put it in the [readme](README.md) file.
 ```assembly
 .MODEL SMALL  
 .STACK 100H  
@@ -37,4 +37,6 @@ END MAIN
 
 ## Shots:
 ![](shots/1.png)
+<br>
+
 ![](shots/2.png)
