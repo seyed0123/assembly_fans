@@ -53,3 +53,8 @@ END MAIN
 <br>
 
 ![](shots/6.png)
+<br>
+
+![](shots/7.bmp)
+<br>
+
