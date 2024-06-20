@@ -52,5 +52,5 @@ END MAIN
 ![](shots/5.png)
 <br>
 
-![](shots/6.bmp)
+![](shots/7.bmp)
 <br>
