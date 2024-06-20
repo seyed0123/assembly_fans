@@ -3,7 +3,7 @@
 This repository is for those very interested in assembly and who want to show their devotion and close relationship with it by writing a few sentences about it.
 
 ## collaboration:
-To participate in this action, it is enough to place the desired text in this part of the code and the asm file in the `src` directory, put the photo of the output of the program in the `shots` directory then put it in the [readme](README.md) file.
+To participate in this action, it is enough to fork the repo, place your desired text in the specified part of the code (line 5), put the asm file in the `src` directory, and the photo of the output of your program in the `shots` directory then put it in the [readme](README.md) file.
 ```assembly
 .MODEL SMALL  
 .STACK 100H  
@@ -41,6 +41,8 @@ END MAIN
 
 ![](shots/2.png)
 <br>
+
 ![](shots/3.png)
 <br>
+
 ![](shots/4.png)
