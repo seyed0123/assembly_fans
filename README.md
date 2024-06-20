@@ -50,3 +50,6 @@ END MAIN
 <br>
 
 ![](shots/5.png)
+
+![](shots/6.bmp)
+<br>
