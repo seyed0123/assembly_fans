@@ -1,4 +1,5 @@
 # Assembly fans
+<img src="shots/photo12104283647.jpg" width = "60%">
 
 This repository is for those very interested in assembly and who want to show their devotion and close relationship with it by writing a few sentences about it.
 
