@@ -10,7 +10,7 @@ To participate in this action, it is enough to fork the repo, place your desired
 .STACK 100H  
 .DATA  
   
-;The string to be printed  
+; The string to be printed  
 STRING DB 'Put your text here', '$'
   
 .CODE  
@@ -21,12 +21,12 @@ MAIN PROC FAR
  ; load address of the string  
  LEA DX,STRING  
   
- ;output the string 
- ;loaded in dx  
+ ; output the string 
+ ; loaded in dx  
  MOV AH,09H 
  INT 21H  
   
- ;interrupt to exit
+ ; interrupt to exit
  MOV AH,4CH 
  INT 21H  
   
@@ -70,7 +70,8 @@ END MAIN
 ![](shots/11.JPG)
 <br>
 
-
+![](shots/12.png)
+<br>
 
 
 
